@@ -1,3 +1,4 @@
 # hmi-opcua-server
 scripts for HMI with OPC UA server
-Delta, Optimus Drive, Weintek
+Delta DOP-110WS, Optimus Drive, Wiintek
+
